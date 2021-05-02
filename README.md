@@ -5,4 +5,4 @@ This game is based on the board game "Codenames" by Czech Games edition. It has 
 https://www.youtube.com/watch?v=zQVHkl8oQEU&ab_channel=TheRulesGirl)
 
 [**_Video demonstration of this program_**](
-https://drive.google.com/file/d/K7ToQ7BMmu9iTARWQ2BYl7piTqTl3YoV/view?usp=sharing)
+https://drive.google.com/file/d/1K7ToQ7BMmu9iTARWQ2BYl7piTqTl3YoV/view?usp=sharing)
